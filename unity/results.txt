@@ -1,0 +1,10 @@
+Vectors(RunTime): 12191 us.
+Vectors(RunTime): 12164 us.
+Vectors(RunTime): 12187 us.
+Vectors(RunTime): 12227 us.
+Vectors(RunTime): 12167 us.
+Vectors(RunTime): 12234 us.
+Vectors(RunTime): 12172 us.
+Vectors(RunTime): 12196 us.
+Vectors(RunTime): 12176 us.
+Vectors(RunTime): 12398 us.
